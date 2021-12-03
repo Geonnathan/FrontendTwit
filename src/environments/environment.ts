@@ -4,7 +4,7 @@
 
 export const environment = {
   production: true,
-  backend: `http://3.21.33.104:3000`
+  backend: `http://grupodbackend-env.eba-mms6x9vk.us-east-2.elasticbeanstalk.com`
 };
 
 /*
